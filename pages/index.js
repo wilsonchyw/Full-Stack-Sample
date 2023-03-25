@@ -25,7 +25,7 @@ const clipboard = [
     { text: "Phone", value: "236-518-2307" },
     { text: "Email", value: "wilson.chyw@gmail.com" },
     { text: "Linkedin", value: "https://linkedin.com/in/wilsonchyw" },
-    { text: "Portfolio", value: "https://portfolio.vocabsitory.site" },
+    { text: "Portfolio", value: "https://portfolio.vocab.services/" },
     { text: "Github", value: "https://github.com/wilsonchyw" },
     { text: "Address", value: "8199 Capstan Way" },
     { text: "Postal", value: "V6X 0V1" },
@@ -211,7 +211,7 @@ Wilson Yip`;
             <br />
             <a href="https://linkedin.com/in/wilsonchyw">linkedin.com/in/wilsonchyw</a>
             <br />
-            {radioValue != 2 && <a href="https://portfolio.vocabsitory.site">portfolio.vocabsitory.site</a>}
+            {radioValue != 2 && <a href="https://portfolio.vocab.services/">portfolio.vocabsitory.site</a>}
             <br />
         </div>
     );
